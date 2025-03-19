@@ -27,7 +27,7 @@ JavaScript para la funcionalidad del sorteo.
 
 Descarga el proyecto o clónalo desde GitHub:
 
-git clone
+git clone https://github.com/Juan1524/Amigo-Secreto.git
 
 Abre la carpeta del proyecto:
 
